@@ -1,0 +1,7 @@
+age. Age of primary beneficiary (numeric)
+sex. Gender of the primary beneficiary (categorical)
+bmi. Body mass index (numeric)
+children. Number of children/dependents covered by health insurance (numeric)
+smoker. smoker (categorical)
+region. Beneficiary's residential area in the U.S.: northeast, southeast, southwest, northwest (categorical)
+charges. Health insurance premium (numerical)
